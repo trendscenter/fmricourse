@@ -1,0 +1,3 @@
+/home/cyrus/Documents/trends/subj/example_subjects/visuomotor/sub01_vis
+/home/cyrus/Documents/trends/subj/example_subjects/visuomotor/sub02_vis
+/home/cyrus/Documents/trends/subj/example_subjects/visuomotor/sub03_vis
